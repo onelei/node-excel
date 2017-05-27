@@ -1,0 +1,8 @@
+{
+  "name": "node-excel",
+  "version": "0.0.1",
+  "dependencies": {
+    "xls-to-json": "*",
+    "xlsx":"*"
+  }
+}
