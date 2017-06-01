@@ -1,0 +1,11 @@
+{
+  "path":{
+    "source": "../tables/excel",
+    "output": "../tables/json"
+  },
+  "excel": [
+    "test.xlsx:sheet1",
+    "测试表格1.xlsx:Test1sheet1",
+    "测试表格2.xlsx:Test2sheet1,Test2sheet2"
+  ]
+}
